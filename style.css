@@ -1,0 +1,107 @@
+*{margin: 0px; padding: 0px;}
+.navbar-brand img{
+    width: 200px;
+}
+.buy-now-button{
+
+    background-color:#21b573;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 7px 15px;
+    cursor: pointer;
+}
+.container{
+    padding-bottom: 100px;
+}
+.card-body img{
+    margin-bottom: 10px;
+    height: 60px;
+    width: 50px;
+    align-items: center;    
+}
+
+
+.card{
+    border: none; 
+    border-radius: 10px;
+    
+}
+.container-card{
+    padding-top: 100px;
+   }
+.item:hover{
+    
+    box-shadow: 2px 3px 10px lightgrey;
+    border-radius: 10px;
+    background-color: white;
+
+
+}
+.item{
+    margin-bottom: 20px;
+    background-color: azure;
+    border: none;
+   
+}
+header{
+    background-color: #e3f2fd;
+
+}
+.left-side img{
+    max-width:10px ;
+   
+}
+.right-side img{
+    max-width: 10px;
+   
+}
+.container-courses h2{
+    margin-bottom: 50px;
+    text-align: center;
+}
+.course-text{
+    font-weight: 700;
+    padding-bottom: 2rem;
+
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.course-card{
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 10px lightgray;
+
+}
+.card img{
+    padding: 10px;
+}
+.video{
+    border-radius: 20px;
+}
+
+.fitness img{
+  
+    border-radius: 20px;
+}
+
+.test-text{
+    margin-bottom: 100px;
+}
+
+
+footer {
+    background-color:#21b573;
+    color: #fff; 
+   
+}
+footer .container{
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.copyright{
+    padding-top: 50px;
+}
